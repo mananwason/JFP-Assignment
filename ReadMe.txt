@@ -1,0 +1,2 @@
+I have categorized all the assignments into folder. I have done the palindrone one differently from the class method, using string bufers.
+I have not submitted the bonus in assignment 4 and assignment 5(2nd question). Thanks
